@@ -44,7 +44,6 @@
                       <td>
                      	 <input type="submit" value="Update"/>
                      	 <input type="submit" value="Delete" formaction="/cart/delete" />  
-                 
                       </td>
                       </form>
                   </tr>
